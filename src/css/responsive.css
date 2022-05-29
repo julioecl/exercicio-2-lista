@@ -1,6 +1,7 @@
 @media (max-width: 600px) {   
     .container {
         gap: 0;
+        margin-bottom: 0;
           
     }
 
