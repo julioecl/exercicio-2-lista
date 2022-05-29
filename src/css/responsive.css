@@ -1,8 +1,7 @@
 @media (max-width: 600px) {   
     .container {
         gap: 0;
-        margin-bottom: 0;
-          
+                       
     }
 
     .container:first-child {
@@ -10,7 +9,7 @@
     }   
     
 
-    .container:last-child {
+    .container:last-child {        
         margin-bottom: 45px;
     }
 }
