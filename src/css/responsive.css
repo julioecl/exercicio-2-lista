@@ -1,0 +1,15 @@
+@media (max-width: 600px) {   
+    .container {
+        gap: 0;
+          
+    }
+
+    .container:first-child {
+        margin-top: 45px;        
+    }   
+    
+
+    .container:last-child {
+        margin-bottom: 45px;
+    }
+}

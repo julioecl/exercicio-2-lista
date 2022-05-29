@@ -1,0 +1,40 @@
+body {    
+    font-family: 'Public Sans', sans-serif;
+    color: #ffffff;    
+}
+
+figure {
+    width: 335px;
+    height: 432px;
+}
+
+
+.container {
+    display: flex;    
+    margin: 128px 20px;
+    gap: 20px;   
+    flex-wrap: wrap;
+    justify-content: left;    
+}
+
+.container img {
+    width: 100%;    
+}
+
+.container figcaption {
+    position: relative;
+    bottom: 102px;
+    left: 20px;
+}
+
+.container h2 {
+    font-size: 30px;
+    font-weight: 700;
+    z-index: 1;
+    bottom: 5px;
+}
+
+.container h3 {
+    font-size: 17px;
+    font-weight: 300;
+}
